@@ -1,0 +1,23 @@
+footer {
+    padding: 2rem;
+    border-radius: 1vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #424242;
+    opacity: 90%;
+}
+
+footer p{
+    color:white;
+}
+
+.nav-footer-list ul li{
+    color:white;
+    list-style: none;
+}
+
+.nav-footer-list ul li a{
+    color:white;
+    text-decoration: underline;
+}

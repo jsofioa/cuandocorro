@@ -1,0 +1,28 @@
+.btn-back{
+    width: 10rem;
+    height: 3rem;
+    border: 0.1rem solid #bdc65a;
+    border-radius: 2.344vw;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: white;
+    font-size: 1em;
+    font-weight: 550;
+    display: block;
+    margin: 0 auto;
+    margin: 2rem;
+}
+
+.btn-back:hover{
+    background: #a1900f;
+    color: white;
+    font-size: 1.2em;
+}
+
+.btn-back a {
+    color:black;
+}
+
+.btn-back a:hover{
+    color:white;
+}

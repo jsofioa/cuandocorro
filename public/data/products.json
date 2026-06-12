@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1,
+        "name":"21k Olimpicos",
+        "city":"Parque Roca, Buenos Aires",
+        "fecha":"21/06/2026",
+        "description": "Los beneficios varian de acuerdo a la categoría que se desee comprar.",
+        "km":"10K, 21K",
+        "precio":"A partir de $15000",
+        "link":"https://eventols.com/p/21k-olimpicos-2026",
+        "image":"img/image2.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name":"Circuito de las 4 Estaciones - INVIERNO",
+        "city":"Vicente López, Buenos Aires",
+        "fecha":"28/06/2026",
+        "description": "Remera oficial, Número de corredor, Chip y clasificación, Servicio médico, Medalla finisher, Servicio de hidratación, Los productos que acompañan el kit",
+        "km":"5K, 10K",
+        "precio":"$33000,$40000",
+        "link":"https://entryfee.com.ar/event/1141/registration",
+        "image":"img/image3.jpg"
+        
+    },
+        {
+        "id": 3,
+        "name":"15K Open Sport",
+        "city":"Mar del Plata",
+        "fecha":"28/06/2026",
+        "description": "Servicios de logística, seguridad, carrera e información, Remera técnica de la carrera, Medalla para los que finalizan, Chip, Hidratación con agua mineral y bebida isotónica en el recorrido y llegada de la carrera, Derecho a los sorteos",
+        "km":"5K, 10K, 15K",
+        "precio":"$51900, $52999, $54999",
+        "link":"https://superate.com.ar/productos/inscripcion-15k-ciudad-2026-5k-10k-15k-mar-del-plata-ziyug/",
+        "image":"img/image6.jpg"
+        
+    },
+    {
+        "id": 4,
+        "name":"Carrera de la Independencia",
+        "city":"Palermo, Buenos Aires",
+        "fecha":"09/07/2026",
+        "description": "Remera Blanca o Celeste (a elección)",
+        "km":"3K, 9k",
+        "precio":"$38000,$42000",
+        "link":"https://checkout.eventick.com.ar/inicio/430",
+        "image":"img/image4.jpg"
+        
+    },
+    {
+        "id": 5,
+        "name":"Maratón Lanus",
+        "city":"Lanús Este, Buenos Aires",
+        "fecha":"09/07/2026",
+        "description": "Medalla Finisher",
+        "km":"Kids (1200m), 3K, 10K",
+        "precio":"$25000 (socios)/ $30000 (no socios),$25000 (socios)/ $35000 (no socios),$30000 (socios)/ $40000 (no socios)",
+        "link":"https://ticketsati.com/event/maraton-ciudad-de-lanus-xxx-edicion",
+        "image":"img/image5.jpg"
+        
+    },
+        {
+        "id": 6,
+        "name":"Saucony Baires",
+        "city": "Palermo, Buenos Aires",
+        "fecha":"18/10/2026",
+        "description": "Remera oficial, Número de corredor, Chip y clasificación, Servicio médico, Medalla finisher, Servicio de hidratación, Kit con productos.",
+        "km":"5K, 15K",
+        "precio":"$44000, $48000",
+        "link": "https://entryfee.com.ar/event/1152/registration",
+        "image":"img/image1.jpg"
+        
+    },
+        {
+        "id": 7,
+        "name":"McDonald's RUN - Mixta",
+        "city":"Vicente López, Buenos Aires",
+        "fecha":"25/10/2026",
+        "description":"Remera oficial, Número de corredor, Chip y clasificación, Servicio médico, Servicio de hidratación, Los productos que acompañan el kit.",
+        "km":"5K, 10K",
+        "precio":"$50000,$50000",
+        "link":"https://entryfee.com.ar/event/1155/registration",
+        "image":"img/image7.jpg"
+    },
+    {
+        "id":8,
+        "name":"Hoka Run",
+        "city":"Palermo, Buenos Aires",
+        "fecha":"01/11/2026",
+        "description":"Remera oficial, Número de corredor, Chip y clasificación, Servicio médico, Medalla finisher, Servicio de hidratación, Los productos que acompañan el kit",
+        "km":"5K, 10K",
+        "precio":"$40000, $45000",
+        "link":"https://entryfee.com.ar/event/1150/registration",
+        "image":"img/image8.jpg"
+    }
+]

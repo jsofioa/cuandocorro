@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#343434;
+    background-image: url("./assets/pexels-seamlesstextures-100705448-11255189.jpg") ;
+    /**background-image: url("./assets/pexels-shadinkitma-4539148.jpg");**/
+    
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul li, p, h3 {
+    color: #343434;
+}
+
